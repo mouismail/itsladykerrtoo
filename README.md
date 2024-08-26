@@ -2,7 +2,7 @@
 
 # Hi there, I'm Kedasha! 👋🏽
 
-![Image](https://github.com/user-attachments/assets/86d92266-8679-4acf-a1d3-9da657805a4d)
+![@itsthatladydev](https://github.com/user-attachments/assets/dd30a6ad-88e3-470b-b64f-838fedf56cf5)
 
 
 ## About Me 🚀
@@ -28,7 +28,8 @@ I'm a Software Engineer who is passionate about encouraging others to get in the
 
 Demonstrate your proficiency at GitHub by becoming certified. This guide will help you prepare for the exams and provide you with resources to help you succeed.
 
-![Image](https://github.com/user-attachments/assets/a9608500-294d-45c4-811b-9e6f98ff5d4a)
+![gh-certs (1)](https://github.com/user-attachments/assets/3f3f02a9-173e-43c3-9c06-341276047633)
+
 
 ## Get in Touch 📬
 
